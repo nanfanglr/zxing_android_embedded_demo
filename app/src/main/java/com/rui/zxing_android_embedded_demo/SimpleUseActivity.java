@@ -24,7 +24,7 @@ public class SimpleUseActivity extends AppCompatActivity {
             public void onClick(View v) {
                 new IntentIntegrator(SimpleUseActivity.this)
                         .setRequestCode(CUSTOMIZED_REQUEST_CODE)
-                        .setCaptureActivity(ToolbarCaptureActivity.class)
+                        .setCaptureActivity(SimpleCaptureActivity.class)
                         .setBeepEnabled(false)
                         .initiateScan();
             }

@@ -24,7 +24,10 @@
             android:name=".SimpleUseActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".ToolbarCaptureActivity"
+            android:name=".SimpleCaptureActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CustomCaptureActivity"
             android:screenOrientation="portrait"></activity>
     </application>
 

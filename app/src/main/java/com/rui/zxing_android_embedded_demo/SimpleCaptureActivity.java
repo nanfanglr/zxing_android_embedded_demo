@@ -13,7 +13,7 @@ import com.journeyapps.barcodescanner.CameraPreview;
 import com.journeyapps.barcodescanner.CaptureManager;
 import com.journeyapps.barcodescanner.DecoratedBarcodeView;
 
-public class ToolbarCaptureActivity extends AppCompatActivity {
+public class SimpleCaptureActivity extends AppCompatActivity {
 
     private TextView header;
     private TextView footer;
