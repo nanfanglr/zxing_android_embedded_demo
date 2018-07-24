@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/barcodescannerapplication/barcodescannerapplication.iml" filepath="$PROJECT_DIR$/barcodescannerapplication/barcodescannerapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgaqrcodeapplication/bgaqrcodeapplication.iml" filepath="$PROJECT_DIR$/bgaqrcodeapplication/bgaqrcodeapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/zxing_android_embedded_demo.iml" filepath="$PROJECT_DIR$/zxing_android_embedded_demo.iml" />
     </modules>
   </component>

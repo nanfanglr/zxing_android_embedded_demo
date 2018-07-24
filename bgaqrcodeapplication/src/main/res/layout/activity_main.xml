@@ -12,10 +12,11 @@
         android:layout_height="50dp"
         android:background="#eee"
         android:gravity="center"
-        android:text="zxing-android-embedded"
+        android:text="BGAQRCode-Android"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button"
@@ -44,4 +45,6 @@
         app:layout_constraintEnd_toEndOf="@+id/button"
         app:layout_constraintStart_toStartOf="@+id/button"
         app:layout_constraintTop_toBottomOf="@+id/button" />
+
+
 </android.support.constraint.ConstraintLayout>
