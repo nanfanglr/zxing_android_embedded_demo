@@ -1,4 +1,4 @@
-**# zxing_android_embedded_demo**
+# zxing_android_embedded_demo
 
 1、[ZXing Android Embedded](https://github.com/journeyapps/zxing-android-embedded)库来实现
 
